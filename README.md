@@ -19,7 +19,7 @@
 ### Due to the consistent growth in interest in sports in general and football in particular, I believe that many who are interested in this type of sport would like to know which famous football players share their qualities. This is the exact task my application solves.
 
 ## New features
-### Considering the increasing popularity of women's football and the promotion of other types of sports recently, my application could be expanded to include female football players and athletes from other sports, and also provide the option to operate the application in other languages."
+### Considering the increasing popularity of women's football and the promotion of other types of sports recently, my application could be expanded to include female football players and athletes from other sports, and also provide the option to operate the application in other languages.
 
 
 
